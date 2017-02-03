@@ -1,6 +1,7 @@
 
 public class Main {
 	public static void main(String[] args){
-		System.out.println("HELLO");
+		int integer = 3432;
+		double d = 0.0;
 	}
 }
